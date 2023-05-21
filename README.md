@@ -41,3 +41,4 @@ This project focuses on exploring and analyzing a dataset of New York City (NYC)
 
 **Conclusion:**
 This project showcases the exploration and analysis of NYC taxi cab ride data to gain insights into customer payment behavior and predict tip amounts. By leveraging exploratory data analysis techniques and predictive modeling, this project offers valuable information for taxi cab drivers to optimize their revenue and improve their understanding of customer tipping patterns.
+
