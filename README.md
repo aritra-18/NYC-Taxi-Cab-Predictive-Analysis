@@ -5,9 +5,12 @@
 
 This project focuses on exploring and analyzing a dataset of New York City (NYC) taxi cab rides to gain insights into customer payment behavior and predict tip amounts. The dataset provides valuable information on various attributes, including trip distance, total amount, fare amount, and payment type, among others.
 
-**Dataset Overview:**
-- The dataset encompasses a comprehensive collection of NYC taxi cab ride records, capturing essential details such as trip distance, payment type, and fare amounts.
-- Key variables for building a predictive model: total_amount and trip_distance.
+**Business Understanding:**
+According to salary.com the average salary for a New York Taxi Driver is around $45,000. This salary is significantly low compared to a median rent value of $6,500 per month. It is important to understand what factors encourage riders to leave tips in order to help drivers obtain a livable wage. 
+
+**Data Understanding:**
+The NYC Taxi and Limousine Commission data came from NYC.gov. The data consisted of approximately 408k unique trips and 18 features. The features included information on trip duration and destination, vendor used, toll information, and payment type. The bar chart below shows the breakdown of how many generous tippers (>20%) versus non-generous tippers that exist in the data set. 
+
 
 **Data Exploration and Visualization:**
 - Exploratory Data Analysis (EDA) was performed to understand the dataset, identify outliers, and prepare it for further analysis.
