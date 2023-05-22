@@ -1,5 +1,5 @@
 # NYC-Taxi-Cab-Predictive-Analysis
-**TaxiCabTipPredict**: A data analysis and machine learning project exploring NYC taxi cab rides, predicting tip amounts, and enhancing understanding of customer payment behavior.
+**TaxiCabTipPredict**: A data analysis and machine learning project exploring NYC taxi cab rides, predicting tip amounts, and enhancing understanding of customer payment behavior.The project utilizes a dataset of yellow taxi trips taken in NYC during 2017 and applies multiple linear regression and random forest models.
 
 **New York Taxi Cab Ride Analysis: Predicting Tips and Revenue**
 
